@@ -428,45 +428,13 @@ Appendix A: Votes of the Body Referred to In These Bylaws
 
 **Dues**:
 
- 
 
-Payment Due
-
-Budget Ranges
-
-Alternative means of qualification:
-
-Top Bracket
-
-$400
-
-$20,000 and up
-
-Refusal to provide documentation verifying budget size
-
-Second Bracket
-
-$300
-
-$12,500 - $19,999
-
- 
-
-Third Bracket
-
-$200
-
-$5,000 - $12,499
-
- 
-
-Bottom Bracket
-
-$50
-
-Under $5,000
-
- 
+| Bracket         | Payment Due | Budget Ranges         | Alternative Means of Qualification |
+|----------------|------------|-----------------------|----------------------------------|
+| **Top Bracket** | $400       | $20,000 and up       | Refusal to provide documentation verifying budget size |
+| **Second Bracket** | $300   | $12,500 - $19,999    |                                  |
+| **Third Bracket** | $200    | $5,000 - $12,499     |                                  |
+| **Bottom Bracket** | $50    | Under $5,000         |                                  |
 
 APDA dues will only be calculated based of guaranteed cash transfers from a member society’s university administration (ie. revenue streams like tournament profits or grants will not be considered when calculating a member’s dues bill). Members will be asked to submit documentation verifying their budget size. Institutions not comfortable disclosing their budgetary information to APDA board may instead submit information to the Class A and B trustees.
 

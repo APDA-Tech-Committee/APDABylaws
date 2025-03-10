@@ -185,7 +185,7 @@ The Board of Trustees, by resolution adopted by a majority of the officers, may 
 
 A. Special Committees. The Board may create such special committees as may be deemed desirable. The members of such committees shall be appointed by the President of APDA with the support of the majority of the officers of the Board. Special committees shall have only the powers specifically delegated to them by the Board and in no case shall have powers which are not authorized for standing committees under the Not-For-Profit Corporation Law.
 
-B. Standing Committees. The Board shall appoint members to at least three standing committees prior to September 1 each year. The members of such committees shall be appointed by the President of APDA with the majority of the officers of the Board. These committees shall include the Novice Mentor Committee, the Equal Opportunity Facilitator Committee, and the Expansion Coordinator Committee. Standing committees shall have only the powers specifically delegated to them by the Board and in no case shall have powers which are not authorized for standing committees under the Not-For-Profit Corporation Law. The Board may create additional standing committees as it sees fit.
+B. Standing Committees. The Board shall appoint members to at least four standing committees prior to September 1 each year. The members of such committees shall be appointed by the President of APDA with the majority of the officers of the Board. These committees shall include the Novice Mentor Committee,  the Technology Committee, the Equal Opportunity Facilitator Committee, and the Expansion Coordinator Committee. Standing committees shall have only the powers specifically delegated to them by the Board and in no case shall have powers which are not authorized for standing committees under the Not-For-Profit Corporation Law. The Board may create additional standing committees as it sees fit.
 
 C. Service of the Committees. Each such committee shall serve at the discretion of the Board. The designation of any such committee and the delegation thereto of authority shall not alone relieve any trustee of their duty to APDA under §717 of the Not-For-Profit Corporation Law.
 
@@ -232,12 +232,22 @@ D. Members-at-Large. The duties of the Members-at-Large shall include: (1) Assis
 
 These duties shall be divided among the Members-at-Large as the Board of Trustees may prescribe by standing or special resolution.
 
-Section 4.04 Agents and Employees
+4.04: APDA Webmaster
+---------------------
+
+APDA shall employ a Wechmaster. The webmaster shall be at least eighteen years of age. The webmaster shall be elected at the Annual Meeting to a term of two years except that: (1) A webmaster elected to fill a vacancy left by an elected webmaster prior to the completion of their term shall be elected for the unexpired term of their predecessor in office and until their successor is elected and qualified; (2) No webmaster provided for in this Section 3.03 B may be elected more than once, unless the first election was to fill a vacancy left by an elected webmaster prior to the completion of their term.
+
+4.05: Powers and Duties of the Webmaster
+----------------------------------------
+
+The webmaster shall have access and credentials to most major web services, which shall be passed down between webmasters and APDA boards. This includes, but is not limited to, the APDA WordPress site, the APDA standings site and tab services (nu-tab, mit-tab). The Webmaster shall be responsible for servicing any technology related to APDA for the duration of their term.  In addition, they'll serve as chair of the tech committee outlined in section 3.09b. While facilitating, teaching, and expanding the APDA developer community are central to the Webmaster’s role, they are ultimately solely accountable for ensuring tech services stay serviced.
+
+Section 4.06 Agents and Employees
 ---------------------------------
 
 The Board of Trustees may appoint agents and employees who shall have such authority and perform such duties as may be prescribed by the Board. The Board may remove any agent or employee at any time with or without cause. Removal without cause shall be without prejudice to such person’s contract rights, if any, and the appointment or such person shall not itself create contract rights.
 
-Section 4.05 Compensation of Officers, Agents, and Employees
+Section 4.07 Compensation of Officers, Agents, and Employees
 ------------------------------------------------------------
 
 APDA shall not pay any compensation to officers for services rendered to APDA, except that officers may be reimbursed for expenses incurred in the performance of their duties to APDA in reasonable amounts as approved by a majority vote of the entire Board.

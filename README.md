@@ -454,53 +454,58 @@ Member institutions who fit into neither of these categories will have their due
 
 **Fines for Delinquency**: None
 
-Appendix B: Best Practices
-==========================
+# Appendix B: Best Practices
 
-1\. All tab justifications for speaker scores should be blind (i.e. the person receiving the justification should not be informed of who the person receiving the speaker score is).
+## Section I: Before the Tournament
 
-2\. Tournaments should have a policy that requires competitors to consent to rounds being recorded. Consent must be obtained from all competitors prior to a video being posted online, and competitors can choose to defer consent to a later date. Competitors will retain the right to remove consent after the video has been put online or to deny consent for a recording to be taken in the first place. Competitors must be notified that a recording is being made before the round has started.
+**A.** All tournaments should specify the intended breaking record (e.g. all 4-1s) prior to the beginning of their round one.
 
-3\. Non-title tournaments ought offer debaters the option of justifying tab scratches to the debater’s choice of either the tab observer, equity officers, or the tab director (or designee thereof) at some point prior to round one. The person approving the scratch ought not be the person on whom the tab scratch is being justified.
+**B.** Tournaments should have tab observers approved by the APDA Board. Tournaments should aim to nominate in-person tab observers whenever possible. This best practice shall not be construed to prohibit the nomination of virtual tab observers when an in-person tab observer cannot be found.
 
-4\. During rounds at all sanctioned APDA tournaments, the tab director may choose to cap points of clarification and/or case construct at a total of at most 15 minutes in maximum length. Tournaments should inform judges and competitors that Points of Clarification may be cut off at any point conditional on both teams’ consent.
+**C.** Ahead of a motions tournament, the EOF liaison and EOF chair(s) should approve individuals, ideally but not necessarily current or former Equity Officers, who are not competing at the tournament to review the motions. All potential motions should be reviewed by these selected individuals prior to 48 hours before the start of the tournament and the tournament should consider any content warnings. If there is complete disagreement about the content warnings, the tournament should err on the side of including additional content warnings. The bar for a motion content warning is any sensitive topic that could realistically come up in round. If a motion has a content warning and is opted out of, then a new motion should be provided to the judge, who will then provide it to the teams at the same time in the competition room.
 
-5\. All tournaments should specify the intended breaking record (e.g. all 4-1s) prior to the beginning of their round one.
+**D.** Schools that intend to host the APDA National Championship should publicize a budget to the body during the scheduling process. Once a host for the APDA National Championship is selected, the hosting schools should publicize a budget including, but not limited to: expected reg, reg breaks, banquet venue, food costs, room renting costs, and alumni subsidies.
 
-6\. Sanctioned tournaments should provide certain tab data to the APDA Board by 11:59 PM Eastern Standard Time on the second Sunday after the tournament. Such data shall be submitted electronically and include: the full speaker tab (including novice status), the full team tab, the pairings for each round (including out-rounds and out-rounds judging), and the results of all outrounds (including the decisions and the sides of each team in each round). This is to be submitted in both a human-readable format (PDF or Google Docs) and a machine-readable format (JSON, CSV, or DebateXML in descending order of preference).
+**E.** APDA Schools should give substantial registration breaks, or free registration if financially feasible, to schools that are hosting the APDA National Championship that year, noting that the financial need of the host school should be considered.
 
-7\. Sanctioned tournaments should post on https://apda.online/forum/ the results of their tournament by 11:59 PM on the Monday after the tournament. These results should include:Dinos, novice and varsity team and speaker awards, and elimination round results, subject to the formatting in the pinned forum post.
+## Section II: Tournament Procedure
 
-8\. Tournaments that allow discretionary scratches should allow only team scratches, as opposed to a combination of team and school scratches. A team scratch shall be a scratch chosen and applied to a team of debaters. A school scratch shall be a scratch chosen by and applied to an entire school. This shall not be interpreted to apply to tab scratches.
+**A.** During rounds at all sanctioned APDA tournaments, the tab director may choose to cap points of clarification and/or case construct at a total of at most 15 minutes in maximum length. Tournaments should inform judges and competitors that Points of Clarification may be cut off at any point conditional on both teams’ consent.
 
-9\. All regular season tournaments should instruct judges to deliver adjudication and feedback after the round and after they have signed their ballots. Judges should provide at least the decision and a discussion of the reason for the decision. Tournaments should instruct that all judges disclose the same amount of information for all non-elimination rounds.
+**B.** All regular season tournaments should instruct judges to deliver adjudication and feedback after the round and after they have signed their ballots. Judges should provide at least the decision and a discussion of the reason for the decision. Tournaments should instruct that all judges disclose the same amount of information for all non-elimination rounds.
 
-10\. Provided meals, dietary restriction accommodations, alternative options, and if needed, stipend amounts and locations should be disclosed in tournament invitations. Food should be labeled at serving.
+**C.** Provided meals, dietary restriction accommodations, alternative options, and if needed, stipend amounts and locations should be disclosed in tournament invitations. Food should be labeled at serving.
 
-11\. Tournaments should have tab observers approved by the APDA Board.
+**D.** Tournaments should aim to announce all speaker awards, novice and varsity, as well as the novice break at the same time that the varsity break is announced.
 
-12\. APDA Schools should give substantial registration breaks, or free registration if financially feasible, to schools that are hosting the APDA National Championship that year, noting that the financial need of the host school should be considered.
+**E.** Speaker scores should be assigned based on the following document: [Speaker Scale](https://docs.google.com/document/d/1yptW79G1oL9mNDhCPcuZf0zwibPtz05-Xg6qjGjC9FU/edit#heading=h.yol2z5jxosjn)
 
-13\. Tournaments should aim to announce all speaker awards, novice and varsity, as well as the novice break at the same time that the varsity break is announced.
+**F.** Tournaments ought prohibit the use of generative AI at tournaments, and include in their tab policies that the use of such technology constitutes an auto-drop.
 
-14\. Speaker scores should be assigned based on the following document: [Speaker Scale](https://docs.google.com/document/d/1yptW79G1oL9mNDhCPcuZf0zwibPtz05-Xg6qjGjC9FU/edit#heading=h.yol2z5jxosjn)
+**G.** Motions tournaments should include [this motion wording guide](https://docs.google.com/document/d/1NDDpfFhQ90fU0hde_u3CmwyVTz8okVcLM9fJMU75hgQ/edit?usp=sharing) in their tab policies and advertise it in any relevant spaces (e.g., Facebook pages, GroupMe chats, Discord channels, etc.). Similarly, chief adjudicators' motion briefings should mirror the rules outlined in this document. If chief adjudicators wish to introduce another motion type, they should make the rules for that new motion type clear to debaters in advance of round 1.
 
-15\. Tournaments should attempt to utilize the judges that are available for any given round, including paneling rounds and assigning judges as non-voting wings on a panel.
+**H.** Tournaments should attempt to utilize the judges that are available for any given round, including paneling rounds and assigning judges as non-voting wings on a panel.
 
-16\. Tournaments should offer debaters the opportunity to justify a clash against another debater to the tab staff, the tournament observer, or the tournament equity officers. The justification bar for a debater clash ought to be higher than a judge tab scratch. Additionally, the tournament should make an effort to anonymize the clash or, at the very least, limit the number of people that have access to the clash justification. Debater clashes only apply to in-rounds. If scratched teams hit during out rounds, tab staff must notify equity officers, who shall make a recommendation (after talking with the individual who submitted the scratch) as to how to hold the round in the most equitable manner possible.
+## Section III: Equity
 
-17\. Tournaments should ensure that their tournament is accessible to disabled participants. Tournaments should follow EOF recommendations about disability accommodations for participants in and out of round.
+**A.** All tab justifications for speaker scores should be blind (i.e. the person receiving the justification should not be informed of who the person receiving the speaker score is).
 
-18\. Ahead of a motions tournament, the EOF liaison and EOF chair(s) should approve individuals, ideally but not necessarily current or former Equity Officers, who are not competing at the tournament to review the motions. All potential motions should be reviewed by these selected individuals prior to 48 hours before the start of the tournament and the tournament should consider any content warnings. If there is complete disagreement about the content warnings, the tournament should err on the side of including additional content warnings. The bar for a motion content warning is any sensitive topic that could realistically come up in round. If a motion has a content warning and is opted out of, then a new motion should be provided to the judge, who will then provide it to the teams at the same time in the competition room.
+**B.** Tournaments should have a policy that requires competitors to consent to rounds being recorded. Consent must be obtained from all competitors prior to a video being posted online, and competitors can choose to defer consent to a later date. Competitors will retain the right to remove consent after the video has been put online or to deny consent for a recording to be taken in the first place. Competitors must be notified that a recording is being made before the round has started.
 
-19\. Tournaments ought, barring motions redacted due to sensitive topic area, post all debated motions, and their gov/opp win rates. If there is an opt-out, tournaments should post the backup motion that is debated. These should be posted alongside the tournament results post (see BP 8).
+**C.** Non-title tournaments ought offer debaters the option of justifying tab scratches to the debater’s choice of either the tab observer, equity officers, or the tab director (or designee thereof) at some point prior to round one. The person approving the scratch ought not be the person on whom the tab scratch is being justified.
 
-20\. Tournaments ought prohibit the use of generative AI at tournaments, and include in their tab policies that the use of such technology constitutes an auto-drop.
+**D.** Tournaments that allow discretionary scratches should allow only team scratches, as opposed to a combination of team and school scratches. A team scratch shall be a scratch chosen and applied to a team of debaters. A school scratch shall be a scratch chosen by and applied to an entire school. This shall not be interpreted to apply to tab scratches.
 
-21\. Schools that intend to host the APDA National Championship should publicize a budget to the body during the scheduling process. Once a host for the APDA National Championship is selected, the hosting schools should publicize a budget including, but not limited to: expected reg, reg breaks, banquet venue, food costs, room renting costs, and alumni subsidies.
+**E.** Tournaments should offer debaters the opportunity to justify a clash against another debater to the tab staff, the tournament observer, or the tournament equity officers. The justification bar for a debater clash ought to be higher than a judge tab scratch. Additionally, the tournament should make an effort to anonymize the clash or, at the very least, limit the number of people that have access to the clash justification. Debater clashes only apply to in-rounds. If scratched teams hit during out rounds, tab staff must notify equity officers, who shall make a recommendation (after talking with the individual who submitted the scratch) as to how to hold the round in the most equitable manner possible.
 
-22\. Tournaments ought not accept tab scratches from third-parties not named in the tab scratch, unless that scratch has been approved by two members of the equity and/or tab staff. This best practice shall not be construed to preclude schools from notifying tournaments of debaters with additional affiliations.
+**F.** Tournaments should ensure that their tournament is accessible to disabled participants. Tournaments should follow EOF recommendations about disability accommodations for participants in and out of round.
 
-23\. Motions tournaments should include [this motion wording guide](https://docs.google.com/document/d/1NDDpfFhQ90fU0hde_u3CmwyVTz8okVcLM9fJMU75hgQ/edit?usp=sharing) in their tab policies and advertise it in any relevant spaces (eg, Facebook pages, GroupMe chats, Discord channels, etc.). Similarly, chief adjudicators' motion briefings should mirror the rules outlined in this document. If chief adjudicators wish to introduce another motion type, they should make the rules for that new motion type clear to debaters in advance of round 1.
+**G.** Tournaments ought not accept tab scratches from third-parties not named in the tab scratch, unless that scratch has been approved by two members of the equity and/or tab staff. This best practice shall not be construed to preclude schools from notifying tournaments of debaters with additional affiliations.
 
-24\. Tournaments should aim to nominate in-person tab observers whenever possible. This best practice shall not be construed to prohibit the nomination of virtual tab observers when an in-person tab observer cannot be found.
+## Section IV: After the Tournament
+
+**A.** Sanctioned tournaments should provide certain tab data to the APDA Board by 11:59 PM Eastern Standard Time on the second Sunday after the tournament. Such data shall be submitted electronically and include: the full speaker tab (including novice status), the full team tab, the pairings for each round (including out-rounds and out-rounds judging), and the results of all outrounds (including the decisions and the sides of each team in each round). This is to be submitted in both a human-readable format (PDF or Google Docs) and a machine-readable format (JSON, CSV, or DebateXML in descending order of preference).
+
+**B.** Sanctioned tournaments should post on https://apda.online/forum/ the results of their tournament by 11:59 PM on the Monday after the tournament. These results should include: Dinos, novice and varsity team and speaker awards, and elimination round results, subject to the formatting in the pinned forum post.
+
+**C.** Tournaments ought, barring motions redacted due to sensitive topic area, post all debated motions, and their gov/opp win rates. If there is an opt-out, tournaments should post the backup motion that is debated. These should be posted alongside the tournament results post (see BP 8).

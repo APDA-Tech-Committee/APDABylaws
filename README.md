@@ -1,6 +1,6 @@
 Article I Offices
 =================
-
+ 
 Section 1.01 Location
 ---------------------
 

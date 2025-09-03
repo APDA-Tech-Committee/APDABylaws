@@ -1,3 +1,7 @@
+---
+title: APDA Bylaws
+---
+
 Article I Offices
 =================
  
